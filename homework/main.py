@@ -1,4 +1,4 @@
-"""Application to manage part inventory."""
+"""Application to manage part inventory"""
 
 import logging
 import sqlite3
